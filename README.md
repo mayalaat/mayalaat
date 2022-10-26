@@ -3,7 +3,7 @@
 ## 🤔 Ask me about
 - 🤓 Backend development
 - ☁️ Cloud Architecture
-- ✍️ design Patterns
+- ✍️ Design Patterns
 
 ## 📖 Learning
 - 👀 Go, Rust
